@@ -1,5 +1,5 @@
 homepage: "https://gtm-gear.com/"
 documentation: "https://gtm-gear.com/templates/firestore-server-client/"
 versions:
-  - sha: 123
+  - sha: ab101ef4484fc8f854afaf3f06f7f02d10590a10
     changeNotes: Initial release.
